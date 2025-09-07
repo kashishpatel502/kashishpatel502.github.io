@@ -1,0 +1,50 @@
+---
+title: "Kashish Patel"
+image: "kashish.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/kashish-patel-a26002294/"
+  - label: GitHub
+    url: "https://github.com/kashishpatel502"
+  - label: Email
+    url: "kashishpatel502@gmail.com"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+Hi! I am Kashish Patel, an MPH candidate at Johns Hopkins Bloomberg School of Public Health, concentrating in Epidemiology and Biostatistics. I am a recent medical graduate from India with an aim to pursue a general surgery residency in the USA. As a participant in JSCOR's program (Johns Hopkins Surgical Center for Outcomes Research), I am learning to design, conduct and analyze health-services research using surgical databases under the guidance of a surgeon-mentor.  
+
+## Education
+
+**Johns Hopkins Bloomberg School of Public Health** | Baltimore, MD
+
+MPH in Epidemiology and Biostatistics | June 2025 - Present
+
+**Smt. NHL Municipal Medical College** | Ahmedabad, India
+
+MBBS | August 2019 - April 2025
+
+## Experience
+
+**Educator** | Project MAHS | May 2024 - Present
+
+**SVP Hospital** | Intern Doctor | March 2024 - April 2025
+
+**Intern** | Coffee With Creativity NGO | April 2024 - September 2024
+
+## Fun Facts
+
+1. I have trained in the classical dance form of 'Bharatnatyam' for 8 years.
+2. I am a state-level Basketball player.
+3. I am an amateur speaker of the Japanese language.
+4. Chai>>>Coffee and no, "chai tea" at starbucks is not real chai.
+5. I co-organize Coffee Without Borders to help classmates meet and mentor each other.
+
+## Personal Expectations
+
+This is my first time ever learning a programming language. I am excited and nervous at the same time. Earlier, I made fun of my fiance (a software engineer) for staring at codes all day "that don't save lives", and look at me now! Apparently, codes can save lives, that too "millions at a time"😉. Turns out my respect for him wasn’t at max capacity — leveled it up just a few days into this course! I look forward to learning more!
+
+
+
