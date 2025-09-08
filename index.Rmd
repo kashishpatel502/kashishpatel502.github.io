@@ -2,11 +2,11 @@
 title: "Kashish Patel"
 image: "kashish.jpg"
 links:
-  - label: LinkedIn
+  - label: '`r fontawesome::fa("linkedin", fill = "#0A66C2")` LinkedIn'
     url: "https://www.linkedin.com/in/kashish-patel-a26002294/"
-  - label: GitHub
+  - label: '`r fontawesome::fa("github", fill = "#181717")` GitHub'
     url: "https://github.com/kashishpatel502"
-  - label: Email
+  - label: '`r fontawesome::fa("envelope", fill = "#EA4335")` Email'
     url: "mailto:kashishpatel502@gmail.com"
 output:
   postcards::trestles
